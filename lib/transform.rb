@@ -1,3 +1,3 @@
-Transform /^STRING\([0-9]*\)$/ do |token|
-  eval token
+Transform(/.*/i) do |date_sugar|
+  binding.pry
 end
