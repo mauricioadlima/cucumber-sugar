@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'pry-byebug', '>=3.4.0'
-gem 'cucumber', '>=2.4.0'
-gem 'rspec', '>=3.5.0'
+gem 'pry-byebug'
+gem 'cucumber'
+gem 'rspec'
 gem 'cucumber-sugar'

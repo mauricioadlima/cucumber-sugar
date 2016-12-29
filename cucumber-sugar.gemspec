@@ -6,7 +6,7 @@ Gem::Specification.new do |s|
   s.description = 'Cucumber sugar is made to sweeten your tests'
   s.authors     = ['Mauricio Lima']
   s.email       = 'mauricioadlima@gmail.com'
-  s.files       = ['lib/cucumber-sugar.rb', 'lib/date_sugar.rb', 'lib/transform.rb']
+  s.files       = ['lib/cucumber-sugar.rb', 'lib/date_sugar.rb', 'lib/number_sugar.rb']
   s.license     = 'GPL-3.0'
   s.homepage    = 'https://github.com/mauricioadlima/cucumber-sugar'
 end
